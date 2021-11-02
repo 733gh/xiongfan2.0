@@ -10,11 +10,11 @@
 
 **免费领取链接：**
 
-QQ扫描二维码或直接加群：930068172（记得备注来源哟！）
+QQ扫描二维码或直接加群：612831951（记得备注来源哟！）
 
-快捷加群方式：（[点击链接加入](https://jq.qq.com/?_wv=1027&k=bP5ayb6t)）
+快捷加群方式：（[点击链接加入](https://jq.qq.com/?_wv=1027&k=aAXqalXc)）
 <div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/121190895-0e958500-c89e-11eb-88a9-599ac3f678d8.png">
+<img src="https://img-blog.csdnimg.cn/420388b682454f71a5357fe16999b600.png">
 </div>
 
 给大家分享的资料包括（**Android学习PDF+架构视频+面试文档+源码笔记​，高级架构技术进阶脑图、Android开发面试专题资料，还有高级进阶架构资料**）
