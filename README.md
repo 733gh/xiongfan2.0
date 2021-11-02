@@ -8,16 +8,8 @@
 
 （目前也还在利用时间不断更新知识点）
 
-**免费领取链接：**
 
-QQ扫描二维码或直接加群：612831951（记得备注来源哟！）
-
-快捷加群方式：（[点击链接加入](https://jq.qq.com/?_wv=1027&k=aAXqalXc)）
-<div align=center>
-<img src="https://img-blog.csdnimg.cn/420388b682454f71a5357fe16999b600.png">
-</div>
-
-给大家分享的资料包括（**Android学习PDF+架构视频+面试文档+源码笔记​，高级架构技术进阶脑图、Android开发面试专题资料，还有高级进阶架构资料**）
+给大家分享的资料包括（**Android学习PDF+架构视频+面试文档+核心笔记​，高级架构技术进阶脑图、Android开发面试专题资料，还有高级进阶架构资料**）
 
 
 
@@ -29,36 +21,35 @@ QQ扫描二维码或直接加群：612831951（记得备注来源哟！）
 
 ## 注意：免费领取方式
 
-QQ扫描二维码或直接加群：930068172（记得备注来源哟！）
+QQ扫描二维码或直接加群：612831951（记得备注来源哟！）
 
-快捷加群方式：（[点击链接加入](https://jq.qq.com/?_wv=1027&k=bP5ayb6t)）
+快捷加群方式：（[点击链接加入](https://jq.qq.com/?_wv=1027&k=aAXqalXc)）
 <div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/121190895-0e958500-c89e-11eb-88a9-599ac3f678d8.png">
+<img src="https://img-blog.csdnimg.cn/420388b682454f71a5357fe16999b600.png">
 </div>
 
 
 ## 关于社交圈
 “做程序员，圈子很重要”因为有了圈子可以让你少走弯路，拓宽人脉，拓展思路，学习他人失败和成功的经验，获取最新经验与信息，抱团取暖等！圈子的高度决定人生的高度！
 
-- **微信:Lxy_Maniu**
+- **微信：MNxiaona666**
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/121190665-da21c900-c89d-11eb-9b2c-58d878c5739d.png">
+<img src="https://user-images.githubusercontent.com/68420976/139796388-4b823b9a-47f7-4143-bf08-7392ed69cddb.png">
 </div>
 
 
 **注意：免费领取方式**
 
-**Android开发交流QQ群：930068172（请注意备注来源）**
+**Android架构交流⑧群：612831951（记得备注来源哟！）
 
-快捷加群方式：（[点击链接加入](https://jq.qq.com/?_wv=1027&k=bP5ayb6t)）
+快捷加群方式：（[点击链接加入](https://jq.qq.com/?_wv=1027&k=aAXqalXc)）
 <div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/121190895-0e958500-c89e-11eb-88a9-599ac3f678d8.png">
+<img src="https://img-blog.csdnimg.cn/420388b682454f71a5357fe16999b600.png">
 </div>
 
 
 欢迎五湖四海的开发者一起加群交流探讨，互相学习，共同进步！
-
 
 
 （资料分享：最前沿的Android技术，包括 java ,  高级UI绘制、源码级分析、内存泄露分析、NDK开发、移动架构师、数据结构和算法、OpenCV打造人脸识别、QQ视频通话核心技术-WebRTC等）
@@ -106,7 +97,6 @@ QQ扫描二维码或直接加群：930068172（记得备注来源哟！）
 <div align=center>
 <img src="https://user-images.githubusercontent.com/68420976/121191357-7ba91a80-c89e-11eb-9723-b4741bc1e892.png">
 <img src="https://user-images.githubusercontent.com/68420976/121191372-7fd53800-c89e-11eb-9ede-37704295c153.png">
-<img src="https://user-images.githubusercontent.com/68420976/121191387-8368bf00-c89e-11eb-8342-d81ae67f1f31.png">
 </div>
 
 
