@@ -1,103 +1,152 @@
-# <p align=center>Android（复习资料+面试题+源码笔记）汇总分享</p>
-***
-### 致读者
-**曾经有位读者问我：“工作一段时间后，如何度过瓶颈期？”**
-![](https://user-images.githubusercontent.com/68420976/121190787-f6be0100-c89d-11eb-9fdf-bef77be9ecf3.png)
-
-在这里免费分享我花费近几年的时间才收录整理出的一套珍藏，（所有的知识点已经收录）希望能帮你**突破瓶颈，升职加薪，跳槽进大厂！**
-
-（目前也还在利用时间不断更新知识点）
-
-
-给大家分享的资料包括（**Android学习PDF+架构视频+面试文档+核心笔记​，高级架构技术进阶脑图、Android开发面试专题资料，还有高级进阶架构资料**）
-
-
-
-包括但不限于【**Java、高级UI绘制、源码级分析、内存泄露分析、NDK开发、移动架构师、数据结构和算法、OpenCV打造人脸识别、QQ视频通话核心技术-WebRTC等全方面的Android进阶实践技术**】
-
-希望能帮助大家学习提升进阶，也节省大家在网上搜索资料的时间来学习，也是可以分享给身边好友一起学习的！
-
-
-
-## 注意：免费领取方式
-
-QQ扫描二维码或直接加群：612831951（记得备注来源哟！）
-
-快捷加群方式：（[点击链接加入](https://jq.qq.com/?_wv=1027&k=aAXqalXc)）
-<div align=center>
-<img src="https://img-blog.csdnimg.cn/420388b682454f71a5357fe16999b600.png">
-</div>
-
-
-## 关于社交圈
-“做程序员，圈子很重要”因为有了圈子可以让你少走弯路，拓宽人脉，拓展思路，学习他人失败和成功的经验，获取最新经验与信息，抱团取暖等！圈子的高度决定人生的高度！
-
-- **微信：MNxiaona666**
+## 鸿蒙Next全栈开发全新学习指南
+也为了积极培养鸿蒙生态人才，让大家都能学习到鸿蒙开发最新的技术，**针对一些在职人员、0基础小白、应届生/计算机专业、鸿蒙爱好者等人群，整理了一套纯血版鸿蒙（HarmonyOS Next）全栈开发技术的学习路线【包含了大厂APP实战项目开发】**。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/139796388-4b823b9a-47f7-4143-bf08-7392ed69cddb.png">
+
+**微信扫码获取学习资源，开启你的学习之旅！**
+
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
+
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+
 </div>
 
+## 本路线共分为四个阶段：
+### 第一阶段：鸿蒙初中级开发必备技能
 
-**注意：免费领取方式**
+![](https://img-blog.csdnimg.cn/direct/7eb5036add9f4f728f1e6135755ce0e7.png#pic_center)
 
-**Android架构交流⑧群：612831951（记得备注来源哟！）
+### 第二阶段：鸿蒙南北双向高工技能基础：
 
-快捷加群方式：（[点击链接加入](https://jq.qq.com/?_wv=1027&k=aAXqalXc)）
-<div align=center>
-<img src="https://img-blog.csdnimg.cn/420388b682454f71a5357fe16999b600.png">
-</div>
-
-
-欢迎五湖四海的开发者一起加群交流探讨，互相学习，共同进步！
-
-
-（资料分享：最前沿的Android技术，包括 java ,  高级UI绘制、源码级分析、内存泄露分析、NDK开发、移动架构师、数据结构和算法、OpenCV打造人脸识别、QQ视频通话核心技术-WebRTC等）
-
-
-
-①Android开发核心知识点笔记文档
-
-②腾讯T3级Android架构师技术脑图/资深移动架构师成长学习路线图
-
-③全套体系化高级架构视频
-
-④面试精品集锦汇总
-
-⑤数据结构与算法知识结构导图、专题知识点
-
-
-
-### ①Android开发核心知识点笔记文档
-<div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/121191076-3553bb80-c89e-11eb-9dca-132013e09a51.png">
-<img src="https://user-images.githubusercontent.com/68420976/121191123-3f75ba00-c89e-11eb-8db9-1823b1e7be62.png">
-<img src="https://user-images.githubusercontent.com/68420976/121191147-46043180-c89e-11eb-97f3-83934616a967.png">
-</div>
-
-### ②对标“阿里 P7、腾讯T3” 70W+年薪企业资深架构师技能成长学习路线图
-（内容详细请加好友或进群后领取）
+![](https://img-blog.csdnimg.cn/direct/372f9160d1974ee69179ad08986586ff.png#pic_center)
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/121191203-574d3e00-c89e-11eb-9bca-4f2c64a41291.png">
+
+**微信扫码获取学习资源，开启你的学习之旅！**
+
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
+
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+
 </div>
 
-### ③全套体系化高级架构视频
-（七大主流技术模块，视频+源码+笔记）
+### 第三阶段：应用开发中高级就业技术：
+
+![](https://img-blog.csdnimg.cn/direct/852f46d88cda4857969ec66e25c097b7.png#pic_center)
+
+### 第四阶段：全网首发-工业级南向设备开发就业技术：
+
+![](https://img-blog.csdnimg.cn/direct/e79bd72095f548db8da2e59070fa28bb.png#pic_center)
+**因图片过大，暂且在这只能放上缩略版了，如需完整版知识路线图学习的可以加小助理V ：**
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/121191266-646a2d00-c89e-11eb-9de2-14e49b43f471.png">
-<img src="https://user-images.githubusercontent.com/68420976/121191285-692ee100-c89e-11eb-8f10-aea34397ad9f.png">
-<img src="https://user-images.githubusercontent.com/68420976/121191304-6df39500-c89e-11eb-9eec-168a0b8d171f.png">
-<img src="https://user-images.githubusercontent.com/68420976/121191322-71871c00-c89e-11eb-8f3d-a5ab075ef2af.png">
-<img src="https://user-images.githubusercontent.com/68420976/121191331-75b33980-c89e-11eb-9bb2-e9ec9c3d8f6d.png">
+
+**微信扫码获取学习资源，开启你的学习之旅！**
+
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
+
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+
 </div>
 
-### ④面试精品集锦汇总
+> ①全方位，更合理的学习路径：
+>路线图包括ArkTS基础语法、鸿蒙应用APP开发、鸿蒙能力集APP开发、次开发多端部署开发、物联网开发等九大模块，六大实战项目贯穿始终，由浅入深，层层递进，深入理解鸿蒙开发原理！
+>
+>②多层次，更多的鸿蒙原生应用：
+>路线图将包含完全基于鸿蒙内核开发的应用，比如一次开发多端部署、自由流转、元服务、端云一体化等，多方位的学习内容让学生能够高效掌握鸿蒙开发，少走弯路，真正理解并应用鸿蒙的核心技术和理念。
+>
+>③实战化，更贴合企业需求的技术点：
+>学习路线图中的每一个技术点都能够紧贴企业需求，经过多次真实实践，每一个知识点、每一个项目，都是码牛课堂鸿蒙研发团队精心打磨和深度解析的成果，注重对学生的细致教学，每一步都确保学生能够真正理解和掌握。
+
+有了鸿蒙开发学习路线，自然学习文档也是少不了的，**耗时一星期整理出了 《鸿蒙(Harmony OS)应用开发》（共计892页）的学习手册**
+
+## 《鸿蒙开发学习手册》： 
+### 入门必看： 
+1. 应用开发导读(ArkTS)
+2. ……
+![](https://github.com/733gh/xiongfan/assets/68420976/496313a5-1e97-4e70-a1a3-e75360885dae)
+
+### HarmonyOS 概念： 
+1. 系统定义
+2. 技术架构
+3. 技术特性
+4. 系统安全
+
+![](https://github.com/733gh/xiongfan/assets/68420976/afe17834-5318-47f6-94be-9d374906de53)
+
 <div align=center>
-<img src="https://user-images.githubusercontent.com/68420976/121191357-7ba91a80-c89e-11eb-9723-b4741bc1e892.png">
-<img src="https://user-images.githubusercontent.com/68420976/121191372-7fd53800-c89e-11eb-9ede-37704295c153.png">
+
+**微信扫码获取学习资源，开启你的学习之旅！**
+
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
+
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+
 </div>
 
+### 如何快速入门： 
 
+1. 基本概念
+2. 构建第一个ArkTS应用
+3. ……
 
+![](https://github.com/733gh/xiongfan/assets/68420976/5d839581-2eef-46c3-85a4-e06f930e10e5)
+
+### 开发基础知识： 
+
+1. 应用基础知识
+2. 配置文件
+3. 应用数据管理
+4. 应用安全管理
+5. 应用隐私保护
+6. 三方应用调用管控机制
+7. 资源分类与访问
+8. 学习ArkTS语言
+9. ……
+
+![](https://github.com/733gh/xiongfan/assets/68420976/0878a752-d614-47c1-8bef-9e8eca11a47d)
+
+<div align=center>
+
+**微信扫码获取学习资源，开启你的学习之旅！**
+
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
+
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+
+</div>
+
+### 基于ArkTS 开发： 
+
+1. Ability开发
+2. UI开发
+3. 公共事件与通知
+4. 窗口管理
+5. 媒体
+6. 安全
+7. 网络与链接
+8. 电话服务
+9. 数据管理
+10. 后台任务(Background Task)管理
+11. 设备管理
+12. 设备使用信息统计
+13. DFX
+14. 国际化开发
+15. 折叠屏系列
+16. ……
+
+![](https://github.com/733gh/xiongfan/assets/68420976/e8c8032e-11b0-4937-9190-d2784677b838)
+
+### 鸿蒙开发面试真题（含参考答案）：
+
+![](https://github.com/733gh/xiongfan/assets/68420976/9e12aa9c-05db-4b92-bfa5-f24bfb636ed3)
+
+<div align=center>
+
+**微信扫码获取学习资源，开启你的学习之旅！**
+
+![](https://github.com/733gh/xiongfan/assets/68420976/f33b589c-1bce-4bee-b019-c9aa09e80e03)
+
+**扫码添加小助理V，记得备注好：“鸿蒙+某自媒体渠道名”  如：知乎、B站、CSDN……等**
+
+</div>
